@@ -1,0 +1,19 @@
+<html>
+<head>
+
+</head>
+
+<body>
+<header>
+
+</header>
+<section>
+    <article>
+        <h2>CSS Typography</h2>
+        <p> A typeface is a collection of letters. While each letter is unique, certain shapes are shared across letters. A typeface represents shared patterns across a collection of letters. Typefaces that are selected for their style, legibility, and readability are most effective when following the fundamental principles of typographic design.<a href ="https://m2.material.io/design/typography/understanding-typography.html#type-properties" target="_blank">Click here...</a></p>
+    </article>
+    <footer>
+    </footer>
+</section>
+</body>
+</html>
