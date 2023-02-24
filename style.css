@@ -50,8 +50,8 @@ h1{
       padding: 4px;
       font-weight: 5px;
       border-block-start-color: #FFBE3C;
-      border-block-end-color: #FFAC00;
-      background-color: #FFB2E5;
+      border-block-end-color: #FF74E6;
+      background-image: linear-gradient(to bottom right, #FFBE3C , #FFECC3);
       width: 150px;
       display: block;
       text-align: center;
