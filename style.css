@@ -43,3 +43,20 @@ h1{
       text-align: center;
       margin-top: 20px;
     }
+
+    .button-alert{
+      border-style: solid;
+      border-radius: 35%;
+      padding: 4px;
+      font-weight: 5px;
+      border-block-start-color: #FFBE3C;
+      border-block-end-color: #FFAC00;
+      background-color: #FFB2E5;
+      width: 150px;
+      display: block;
+      text-align: center;
+      margin-top: 20px;
+
+
+
+    }
