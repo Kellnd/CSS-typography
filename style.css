@@ -38,4 +38,8 @@ h1{
       border-width: 2px;
       text-decoration: none;
       color: #94C37C;
+      width: 100px;
+      display: block;
+      text-align: center;
+      margin-top: 20px;
     }
