@@ -31,7 +31,9 @@ h1{
   
     .button-link{
       border-style: solid;
-      border-color: #DAFFC7;
+      border-radius: 35%;
+      padding: 4px;
+      border-color: #9BEA73;
       background-color: #EBFFE1;
       border-width: 2px;
       text-decoration: none;
