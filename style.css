@@ -35,12 +35,13 @@ h2{
   .button-link{
 	  padding: 15px 25px;
 	  background-color: #FFBE3C;
-	  background-image: linear-gradient( #FFBE3C,#FFECC3);
+	  background-image: linear-gradient(#FFBE3C,#FFECC3);
     border-style: solid;
-    border-color: #FF74E6;
+    border-color: linear-gradient (#FF74E6, #FFBEEE); 
     border-radius: 35%;
     font-weight: 5px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 60px;
     text-decoration: none;
     color: #94C37C;
     width: 150px;
@@ -67,6 +68,21 @@ h2{
       margin-top: 20px;
       margin: 0 auto;
     }
+    
+    nav{
+      padding: 20 px;
+      background-color: linear-gradient (#FF74E6, #FFBEEE);
+   }
+   .nav-links{
+      list-style-type: none;
+
+   }
+
+   .nav-links li{
+      display: inline;
+      font-family: 'Quattrocento', serif;
+      font-size: 35px;
+   }
 
     .top-banner{
       height: 240px;
