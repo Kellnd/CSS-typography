@@ -86,7 +86,14 @@ h2{
       margin: 0 auto;
       width: 500px;
       text-decoration: none;
-      color: #FFF6D3; 
+      color:#FFF6D3; 
+   }
+
+   .nav-links li a{
+      padding-left: 10px;
+      padding-right: 5px;
+      text-decoration: none;
+      color:#FFECC3
    }
 
     .top-banner{
