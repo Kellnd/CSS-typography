@@ -47,7 +47,7 @@ h1{
     display: block;
     text-align: center;
     margin-top: 20px;
-    margin-left: 490px;
+    margin: 0 auto;
   }
 
     .button-alert{
@@ -65,7 +65,7 @@ h1{
       display: block;
       text-align: center;
       margin-top: 20px;
-      margin-left: 490px;
+      margin: 0 auto;
     }
 
     .top-banner{
