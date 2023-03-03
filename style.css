@@ -110,6 +110,8 @@ h2{
       padding-top: 110px;
       background-color:#FFF8DD;
       background-image: url("https://images.pexels.com/photos/4386125/pexels-photo-4386125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+      background-size: cover;
+      background-attachment: fixed;
     }
 
     .main_content{
