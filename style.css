@@ -79,7 +79,7 @@ h2{
       background-color:#FFBEEE;
       position: fixed;
       width: 100%;
-      box-shadow: 5px 10px;
+      box-shadow: 5px 10px 10px;
    }
    .nav-links{
       list-style-type: none;
