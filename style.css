@@ -77,6 +77,8 @@ h2{
     nav{
       padding: 20 px;
       background-color:#FFBEEE;
+      position: fixed;
+      width: 100%;
    }
    .nav-links{
       list-style-type: none;
