@@ -29,7 +29,7 @@ h2{
     font-family: 'Yanone Kaffeesatz', sans-serif;
     letter-spacing: 1px;
     text-align: center;
-    margin: 0;
+    margin: 0 auto;
   }
   
   .button-link{
