@@ -71,17 +71,20 @@ h2{
     
     nav{
       padding: 20 px;
-      background-color: linear-gradient (#FF74E6, #FFBEEE);
+      background-color:#FFBEEE;
    }
    .nav-links{
       list-style-type: none;
-
+      text-align: center;
+      padding: 10px;
    }
 
    .nav-links li{
       display: inline;
-      font-family: 'Quattrocento', serif;
+      font-family: 'Tilt Neon', cursive;
       font-size: 35px;
+      margin: 0 auto;
+      width: 500px;
    }
 
     .top-banner{
