@@ -20,7 +20,7 @@ h2{
 
   h1{
     font-size: 100px; 
-    color: #FFB2E5; 
+    color: #E00096; 
     line-height: 450px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     letter-spacing: 1px;
@@ -76,7 +76,7 @@ h2{
     
     nav{
       padding: 20 px;
-      background-color:#FFBEEE;
+      background-color:#FFE0F3;
       position: fixed;
       width: 100%;
       box-shadow: 5px 20px 10px #D4F8FF;
@@ -94,14 +94,14 @@ h2{
       margin: 0 auto;
       width: 500px;
       text-decoration: none;
-      color:#FFF6D3; 
+      color:#4F4F4F; 
    }
 
    .nav-links li a{
       padding-left: 80px;
       padding-right: 80px;
       text-decoration: none;
-      color:#FFECC3
+      color:#4F4F4F
    }
 
     .top-banner{
@@ -125,3 +125,23 @@ h2{
       margin: 0 auto;
       padding: 0 10px;
     }
+
+    /* Mobile Styles */
+
+    @media only screen and (max-width: 600px) {
+      
+      body{
+        background-color: #000;  
+    }
+
+    h1{
+      font-size: 60px; 
+      color: #FFB2E5; 
+      background-color: #888;
+    }
+
+    h2{
+      font-size: 20px; 
+      color: #fff; 
+    }
+  }
