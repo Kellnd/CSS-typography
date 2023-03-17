@@ -35,6 +35,25 @@ h2{
     text-align: center;
     margin: 0 200px auto;
   }
+
+  .button-last{
+    padding: 15px 25px;
+	  background-color: #FFBE3C;
+	  background-image: linear-gradient(#FFBE3C,#FFECC3);
+    border-style: solid;
+    border-color:#FF74E6;
+    border-radius: 35%;
+    font-weight: 5px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    color: #E00096;
+    width: 150px;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  }
   
   .button-link{
 	  padding: 15px 25px;
@@ -56,25 +75,6 @@ h2{
   }
 
   .button-alert{
-    padding: 15px 25px;
-	  background-color: #FFBE3C;
-	  background-image: linear-gradient(#FFBE3C,#FFECC3);
-    border-style: solid;
-    border-color:#FF74E6;
-    border-radius: 35%;
-    font-weight: 5px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 30px;
-    text-decoration: none;
-    color: #E00096;
-    width: 150px;
-    display: block;
-    text-align: center;
-    margin: 0 auto;
-    margin-bottom: 50px;
-  }
-
-  .button-last{
     padding: 15px 25px;
 	  background-color: #FFBE3C;
 	  background-image: linear-gradient(#FFBE3C,#FFECC3);
