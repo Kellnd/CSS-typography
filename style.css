@@ -47,7 +47,7 @@ h2{
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 30px;
     text-decoration: none;
-    color: #94C37C;
+    color: #E00096;
     width: 150px;
     display: block;
     text-align: center;
@@ -66,12 +66,12 @@ h2{
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 30px;
     text-decoration: none;
-    color: #94C37C;
+    color: #E00096;
     width: 150px;
     display: block;
     text-align: center;
-    margin-top: 20px;
     margin: 0 auto;
+    margin-bottom: 50px;
   }
     
     nav{
@@ -120,6 +120,11 @@ h2{
       padding: 0 10px;
     }
 
+    img {
+      width: 100%;
+      margin-left: 0 auto;
+    }
+
     footer{
       max-width: 800px;
       margin: 0 auto;
@@ -144,11 +149,6 @@ h2{
     h2{
       font-size: 20px; 
       color: #fff; 
-    }
-
-    img {
-      width: 100%;
-      margin-left: 0 auto;
     }
 
   }
